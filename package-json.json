@@ -2,7 +2,7 @@
   "name": "whiteboard-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/your-repo-name",
+  "homepage": "https://myfirstbuilds.github.io/day1",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
